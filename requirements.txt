@@ -1,0 +1,13 @@
+torch==2.2.2
+torchvision==0.17.2
+
+datasets
+evaluate==0.4.3
+accelerate
+transformers
+pandas
+numpy
+matplotlib
+ipykernel
+notebook
+tqdm 
